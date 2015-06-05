@@ -1,5 +1,5 @@
 {
-  "name": "aeris/guzzle-http-mock",
+  "name": "dunpeal/guzzle-http-mock",
   "description": "A mock library for verifying requests made with the Guzzle Http Client, and mocking responses.",
   "keywords": [
     "testing",
@@ -24,7 +24,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.3.3",
-    "guzzlehttp/guzzle": "~5.0.0"
+    "guzzlehttp/guzzle": "5.*"
   },
   "autoload": {
     "psr-4": {
